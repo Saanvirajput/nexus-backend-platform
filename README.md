@@ -4,6 +4,10 @@
 
 Nexus is a production-grade backend architecture built with **Spring Boot**, **Kotlin**, and **MyBatis**. It demonstrates advanced design patterns including **DDD (Domain-Driven Design)**, **CQRS**, and **Clean Architecture** to provide a scalable foundation for enterprise-level applications.
 
+## 🌐 Live Demo
+- **Live API Portal**: [https://saanvirajput.github.io/nexus-backend-platform/](https://saanvirajput.github.io/nexus-backend-platform/)
+
+
 ## 🏛️ Architectural Design
 
 Nexus follows a strict layer separation to ensure maintainability and testability:
