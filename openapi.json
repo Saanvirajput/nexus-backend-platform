@@ -1,0 +1,24 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Nexus API",
+    "description": "Enterprise Spring Boot Microservices Platform implementation of the RealWorld spec.",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api/users/login": {
+      "post": {
+        "tags": ["Auth"],
+        "summary": "Existing user login",
+        "responses": { "200": { "description": "User logged in" } }
+      }
+    },
+    "/api/articles": {
+      "get": {
+        "tags": ["Articles"],
+        "summary": "Get most recent articles",
+        "responses": { "200": { "description": "Articles retrieved" } }
+      }
+    }
+  }
+}
