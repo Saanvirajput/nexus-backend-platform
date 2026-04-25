@@ -1,12 +1,12 @@
 # 🍃 Nexus: Enterprise Spring Boot Microservices Platform
 
-![Nexus Hero Banner](/home/raven/.gemini/antigravity/brain/0e34cd78-0977-463f-ad0b-5adbc09a1bac/nexus_spring_hero_banner_1777060765269.png)
+![Nexus Hero Banner](./assets/nexus_spring_hero_banner_1777060765269.png)
 
 Nexus is a production-grade backend architecture built with **Spring Boot**, **Kotlin**, and **MyBatis**. It demonstrates advanced design patterns including **DDD (Domain-Driven Design)**, **CQRS**, and **Clean Architecture** to provide a scalable foundation for enterprise-level applications.
 
 ## 🌐 Live Demo
-- **Live API Portal**: [https://saanvirajput.github.io/nexus-backend-platform/](https://saanvirajput.github.io/nexus-backend-platform/)
 
+- **Live API Portal**: [https://saanvirajput.github.io/nexus-backend-platform/](https://saanvirajput.github.io/nexus-backend-platform/)
 
 ## 🏛️ Architectural Design
 
